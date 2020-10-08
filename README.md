@@ -3,7 +3,7 @@ REGISTER-LOGIN-LOGOUT-API source code
 
 INTRODUCTION
 
-This project of Register-Login-Logout and Change Password API is designed by django Rest framework and django.
+This project of Register-Login-Logout and Change Password API is designed by Django Rest Framework and Django.
 
 This is a Register-Login-Logout and Change Password API.In this API you will find user registration,login,logout,change password features.We have used token based authentication.
 For user registration -
